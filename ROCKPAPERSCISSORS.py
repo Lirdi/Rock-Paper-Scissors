@@ -19,7 +19,7 @@ while True:
             print("bro we got the same")
         if choice == "rock":
             if cc == "paper":
-                print("Seem's you've lost.")
+                print("Seems you've lost.")
             elif cc == "scissors":
                 print("damn it you defeated me!!")
 
